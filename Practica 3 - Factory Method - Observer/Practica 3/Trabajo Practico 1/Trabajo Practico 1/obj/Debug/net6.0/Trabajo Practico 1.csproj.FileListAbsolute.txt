@@ -1,0 +1,135 @@
+C:\Users\gonzalo.corsiglia\Desktop\uni\tp1\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.exe
+C:\Users\gonzalo.corsiglia\Desktop\uni\tp1\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.deps.json
+C:\Users\gonzalo.corsiglia\Desktop\uni\tp1\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.runtimeconfig.json
+C:\Users\gonzalo.corsiglia\Desktop\uni\tp1\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\uni\tp1\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.pdb
+C:\Users\gonzalo.corsiglia\Desktop\uni\tp1\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.csproj.AssemblyReference.cache
+C:\Users\gonzalo.corsiglia\Desktop\uni\tp1\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonzalo.corsiglia\Desktop\uni\tp1\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.AssemblyInfoInputs.cache
+C:\Users\gonzalo.corsiglia\Desktop\uni\tp1\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.AssemblyInfo.cs
+C:\Users\gonzalo.corsiglia\Desktop\uni\tp1\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.csproj.CoreCompileInputs.cache
+C:\Users\gonzalo.corsiglia\Desktop\uni\tp1\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\uni\tp1\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\refint\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\uni\tp1\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.pdb
+C:\Users\gonzalo.corsiglia\Desktop\uni\tp1\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.genruntimeconfig.cache
+C:\Users\gonzalo.corsiglia\Desktop\uni\tp1\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\ref\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 2022\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.exe
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 2022\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.deps.json
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 2022\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.runtimeconfig.json
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 2022\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 2022\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.pdb
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 2022\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.csproj.AssemblyReference.cache
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 2022\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 2022\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.AssemblyInfoInputs.cache
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 2022\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.AssemblyInfo.cs
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 2022\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.csproj.CoreCompileInputs.cache
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 2022\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 2022\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\refint\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 2022\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.pdb
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 2022\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.genruntimeconfig.cache
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 2022\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\ref\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 20226\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.exe
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 20226\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.deps.json
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 20226\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.runtimeconfig.json
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 20226\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 20226\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.pdb
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 20226\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.csproj.AssemblyReference.cache
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 20226\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 20226\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.AssemblyInfoInputs.cache
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 20226\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.AssemblyInfo.cs
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 20226\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.csproj.CoreCompileInputs.cache
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 20226\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 20226\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\refint\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 20226\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.pdb
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 20226\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.genruntimeconfig.cache
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 20226\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\ref\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.exe
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.deps.json
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.runtimeconfig.json
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.pdb
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.csproj.AssemblyReference.cache
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.AssemblyInfoInputs.cache
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.AssemblyInfo.cs
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.csproj.CoreCompileInputs.cache
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\refint\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.pdb
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.genruntimeconfig.cache
+C:\Users\gonzalo.corsiglia\Desktop\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\ref\Trabajo Practico 1.dll
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Practica 2\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.exe
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Practica 2\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.deps.json
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Practica 2\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.runtimeconfig.json
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Practica 2\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.dll
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Practica 2\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.pdb
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Practica 2\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.csproj.AssemblyReference.cache
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Practica 2\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Practica 2\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.AssemblyInfoInputs.cache
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Practica 2\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.AssemblyInfo.cs
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Practica 2\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.csproj.CoreCompileInputs.cache
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Practica 2\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.dll
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Practica 2\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\refint\Trabajo Practico 1.dll
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Practica 2\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.pdb
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Practica 2\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.genruntimeconfig.cache
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Practica 2\2do Cuatrimestre Uni 202\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\ref\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.exe
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.deps.json
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.runtimeconfig.json
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.pdb
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.csproj.AssemblyReference.cache
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.AssemblyInfoInputs.cache
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.AssemblyInfo.cs
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.csproj.CoreCompileInputs.cache
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\refint\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.pdb
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.genruntimeconfig.cache
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\ref\Trabajo Practico 1.dll
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Trabajo Practico 2.5\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.exe
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Trabajo Practico 2.5\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.deps.json
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Trabajo Practico 2.5\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.runtimeconfig.json
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Trabajo Practico 2.5\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.dll
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Trabajo Practico 2.5\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.pdb
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Trabajo Practico 2.5\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.csproj.AssemblyReference.cache
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Trabajo Practico 2.5\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Trabajo Practico 2.5\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.AssemblyInfoInputs.cache
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Trabajo Practico 2.5\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.AssemblyInfo.cs
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Trabajo Practico 2.5\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.csproj.CoreCompileInputs.cache
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Trabajo Practico 2.5\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.dll
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Trabajo Practico 2.5\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\refint\Trabajo Practico 1.dll
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Trabajo Practico 2.5\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.pdb
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Trabajo Practico 2.5\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.genruntimeconfig.cache
+C:\Users\Peceta\OneDrive\Desktop\METODOLOGIAS TRABAJO CARPETAORIGI\Trabajo Practico 2.5\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\ref\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 3mio2.0\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.exe
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 3mio2.0\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.deps.json
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 3mio2.0\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.runtimeconfig.json
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 3mio2.0\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 3mio2.0\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.pdb
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 3mio2.0\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.csproj.AssemblyReference.cache
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 3mio2.0\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 3mio2.0\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.AssemblyInfoInputs.cache
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 3mio2.0\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.AssemblyInfo.cs
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 3mio2.0\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.csproj.CoreCompileInputs.cache
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 3mio2.0\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 3mio2.0\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\refint\Trabajo Practico 1.dll
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 3mio2.0\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.pdb
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 3mio2.0\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.genruntimeconfig.cache
+C:\Users\gonzalo.corsiglia\Desktop\Trabajo Practico 3mio2.0\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\ref\Trabajo Practico 1.dll
+C:\Users\Peceta\OneDrive\Desktop\Trabajo Practico 3.7MioUltimaActualizacion\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.exe
+C:\Users\Peceta\OneDrive\Desktop\Trabajo Practico 3.7MioUltimaActualizacion\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.deps.json
+C:\Users\Peceta\OneDrive\Desktop\Trabajo Practico 3.7MioUltimaActualizacion\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.runtimeconfig.json
+C:\Users\Peceta\OneDrive\Desktop\Trabajo Practico 3.7MioUltimaActualizacion\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.dll
+C:\Users\Peceta\OneDrive\Desktop\Trabajo Practico 3.7MioUltimaActualizacion\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net6.0\Trabajo Practico 1.pdb
+C:\Users\Peceta\OneDrive\Desktop\Trabajo Practico 3.7MioUltimaActualizacion\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.csproj.AssemblyReference.cache
+C:\Users\Peceta\OneDrive\Desktop\Trabajo Practico 3.7MioUltimaActualizacion\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peceta\OneDrive\Desktop\Trabajo Practico 3.7MioUltimaActualizacion\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.AssemblyInfoInputs.cache
+C:\Users\Peceta\OneDrive\Desktop\Trabajo Practico 3.7MioUltimaActualizacion\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.AssemblyInfo.cs
+C:\Users\Peceta\OneDrive\Desktop\Trabajo Practico 3.7MioUltimaActualizacion\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.csproj.CoreCompileInputs.cache
+C:\Users\Peceta\OneDrive\Desktop\Trabajo Practico 3.7MioUltimaActualizacion\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.dll
+C:\Users\Peceta\OneDrive\Desktop\Trabajo Practico 3.7MioUltimaActualizacion\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\refint\Trabajo Practico 1.dll
+C:\Users\Peceta\OneDrive\Desktop\Trabajo Practico 3.7MioUltimaActualizacion\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.pdb
+C:\Users\Peceta\OneDrive\Desktop\Trabajo Practico 3.7MioUltimaActualizacion\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\Trabajo Practico 1.genruntimeconfig.cache
+C:\Users\Peceta\OneDrive\Desktop\Trabajo Practico 3.7MioUltimaActualizacion\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net6.0\ref\Trabajo Practico 1.dll
